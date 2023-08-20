@@ -1,12 +1,11 @@
 body{
-  background-color: #444444;
+  background-color: red;
    color: #dddddd;
   font-family: Papyrus, Helvetica, sans-serif;
   margin: 20% 15%;
-  background-image:url('https://wallpapers.com/images/featured/best-cool-40lkhq7b7tl3p1qw.jpg')
+  background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLeu3j4iBlJ3p9WiSboaouvtgwjYfd8PsNCA&usqp=CAU')
 }
 
-h1{
   font-family:papyrus; 
 }
 
@@ -23,5 +22,9 @@ h1{
 
 ul{
    list-style-type: square;
+}
+
+h3 {
+ border-style: dotted solid double; 
 }
 
