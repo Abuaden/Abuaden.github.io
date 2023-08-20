@@ -1,1 +1,27 @@
+body{
+  background-color: #444444;
+   color: #dddddd;
+  font-family: Papyrus, Helvetica, sans-serif;
+  margin: 20% 15%;
+  background-image:url('https://wallpapers.com/images/featured/best-cool-40lkhq7b7tl3p1qw.jpg')
+}
+
+h1{
+  font-family:papyrus; 
+}
+
+.exp-header{
+  border-top:1px solid #dddddd
+    
+   
+}
+
+
+.exp-header2{
+  border-bottom:1px solid #dddddd
+}
+
+ul{
+   list-style-type: square;
+}
 
